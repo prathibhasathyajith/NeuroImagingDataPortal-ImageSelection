@@ -24,6 +24,7 @@ public class ConfirmationMessage extends javax.swing.JFrame {
     int xmouse;
     int ymouse;
     int x=12;
+    int test = 0;
     
     public ConfirmationMessage(String message,String messageType) {
         initComponents();
